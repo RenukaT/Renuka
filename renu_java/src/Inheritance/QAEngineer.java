@@ -13,7 +13,7 @@ public class QAEngineer extends Employee {
 		renu.compName="ITC";
 		renu.designation="IT Tester";
 		
-		//renu.display();
+		renu.display();
 		
 	}
 
