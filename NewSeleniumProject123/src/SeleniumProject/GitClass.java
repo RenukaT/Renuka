@@ -7,6 +7,7 @@ public class GitClass {
 		
 		System.out.println("New class");
 		System.out.println("git server");
+		System.out.println("new commit stmt");
 	}
 
 }
